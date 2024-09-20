@@ -1,0 +1,25 @@
+.vien {
+border-left:6px dotted #309C2D;
+}
+a {
+font-family: Courier New;text-decoration:none;color:#309C2D;
+font-weight:bold;font-size:15px;
+}
+a:hover {
+text-decoration:underline;
+}
+body {
+	SCROLLBAR-FACE-COLOR: #306932; 	SCROLLBAR-ARROW-COLOR: #002F00; 
+	SCROLLBAR-TRACK-COLOR: #FFFFFF; }
+.tieude {
+font-family:Arial, Helvetica, sans-serif;
+font-size:30px;color:#000000;font-weight:bold; }
+.noidung {
+font-family:tahoma;font-size:12px;color:#000000;
+}
+.nen{
+background-image:url(images/nen.gif); background-repeat:repeat-x;
+}
+.bienphai {
+border-right:4px solid #356736;
+}
